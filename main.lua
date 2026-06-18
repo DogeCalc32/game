@@ -14,6 +14,7 @@ favoriteFoods = {
     "clams",
     "chocolate",
 }
+-- Sup dude
 -- NOTE commented out code will not run (shortcut is ctrl + /)
 -- print(table[1])
 -- print(table[2])
