@@ -14,6 +14,7 @@ favoriteFoods = {
     "clams",
     "chocolate",
 }
+-- i use love2d for games
 -- my calculator version is TI-nspire cx ii and TI-nspire cx and TI-84 plus CE Python
 -- Sup dude
 -- NOTE commented out code will not run (shortcut is ctrl + /)
